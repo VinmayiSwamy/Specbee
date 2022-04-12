@@ -69,6 +69,7 @@ class SpecbeeLocation extends ConfigFormBase {
       'America/Chicago' => $this->t('America/Chicago'),
       'America/New_York' => $this->t('America/New_York'),
       'Asia/Tokyo' => $this->t('Asia/Tokyo'),
+      'Asia/Dubai' => $this->t('Asia/Dubai'),
       'Asia/Kolkata' => $this->t('Asia/Kolkata'),
       'Europe/Amsterdam' => $this->t('Europe/Amsterdam'),
       'Europe/Oslo' => $this->t('Europe/Oslo'),
